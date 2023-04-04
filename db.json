@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "fullName": "test",
+      "email": "email@gmail",
+      "phoneNo": "73849572"
+    },
+    {
+      "id": 2,
+      "fullName": "m j",
+      "email": "buhupoquri@rungel.net",
+      "phoneNo": "09595364890"
+    },
+    {
+      "id": 3,
+      "fullName": "Tempman",
+      "email": "hi@gamill.com",
+      "phoneNo": "888899995"
+    },
+    {
+      "id": 4,
+      "fullName": "Lamo",
+      "email": "lamo@1234.com",
+      "phoneNo": 0
+    }
+  ],
+  "signupUsers": [
+    {
+      "name": "ab cd",
+      "email": "s@email.com",
+      "password": "aa",
+      "id": 1
+    },
+    {
+      "name": "Akshita Semwal",
+      "email": "a.com",
+      "password": "aa",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "xyz.com",
+      "password": "hoiahoo",
+      "id": 3
+    },
+    {
+      "name": "Mrudul Jain",
+      "email": "mrudul.jain@nielseniq.com",
+      "password": "abc12345",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
